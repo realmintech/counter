@@ -1,0 +1,25 @@
+form{
+    max-width: 550px;
+    margin: auto;
+    background-color: navy;
+}
+#belowcontent{
+    justify-content: space-between;
+    display: flex;
+    flex-wrap: wrap;
+}
+#message{
+    height: auto;
+    width: 98.5%;
+    background-color: wheat;
+}
+h1{
+    color: wheat;
+    text-align: center;
+    display: flex;
+    flex-wrap: wrap;
+}
+#belowcontent{
+    color: wheat;
+    font-size: 20px;
+}
